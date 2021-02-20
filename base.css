@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color:#333; /*ページ全体の背景色*/
+  background-color:#000; /*ページ全体の背景色*/
   color:#fff; /* 文字の色　*/
   transition: .5s;
   font-size:95%;		/* フォントサイズを95%にする */
@@ -35,7 +35,7 @@ color:#6c9;　←紫色
 メインメニュー
 ============================================*/
 ul#menu {
-	width:960px; height:50px; 	/*メインメニュー部分の幅と高さ*/
+	width:25%; height:50px; 	/*メインメニュー部分の幅と高さ*/
 }
 #menu li {
 	list-style-type:none;		/*リストマーカー無しにする*/
