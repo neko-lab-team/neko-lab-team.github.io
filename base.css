@@ -10,8 +10,8 @@
 }
 
 body {
-  background-color: #333; /*ページ全体の背景色*/
-  color: #fff; /* 文字の色　*/
+  background-color:#333; /*ページ全体の背景色*/
+  color:#fff; /* 文字の色　*/
   transition: .5s;
   font-size:95%;		/* フォントサイズを95%にする */
   font-family: "ＭＳ ゴシック",sans-serif;	/* フォントの種類をゴシック系にする */
@@ -24,11 +24,11 @@ text-decoration:none;
 }
 
 a:link { /*アクセスしたことのないリンク*/
-color: #9fc; ←青色
+color:#9fc; ←青色
 }
 
 a:visited { /*アクセスしたことのあるリンク*/
-color: #6c9;　←紫色
+color:#6c9;　←紫色
 }
 
 /*============================================
