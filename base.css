@@ -40,13 +40,13 @@ ul#menu {
 #menu li {
 	list-style-type:none;		/*リストマーカー無しにする*/
 	display:inline;			/*リスト項目をインライン表示にする*/
-	float:none;			/*リスト項目を横に並べる*/
+	float:left;			/*リスト項目を横に並べる*/
 }
 #menu li a {
 	background-color:navy;	/*背景色*/
 	color:#ffffff;		/*文字色*/
 	display:block;			/*リンク部分をブロック表示にする*/
-	width:960%; height:35px;	/*幅と高さ*/
+	width:960px; height:35px;	/*幅と高さ*/
 	text-align:center;		/*テキストをセンター揃えにする*/
 	text-decoration:none;		/*リンク部分を下線無しにする*/
 }
